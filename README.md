@@ -10,7 +10,7 @@ O objetivo é apresentar um painel completo para análise de uma empresa de **lo
 ## 🖼️ Visualizações do Dashboard
 
 ### 📌 1. Capa do Projeto
-![Capa do Dashboard](https://github.com/brunodutraho/dashboard-locacao-veiculos-powerbi/blob/main/imagens/capa.png?raw=true)
+![Capa do Dashboard](/imagens/capa.png)
 
 ### 🚗 2. Dashboard – Locação de Veículos
 ![Dashboard Locação de Veículos](https://github.com/brunodutraho/dashboard-locacao-veiculos-powerbi/blob/main/imagens/locacao-veiculos.png?raw=true)
