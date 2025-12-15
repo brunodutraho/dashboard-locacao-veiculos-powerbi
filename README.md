@@ -108,6 +108,5 @@ Segmentações utilizadas:
 ## 🔗 Visualização Online
 
 Acesse o dashboard diretamente pela web:
-
-👉 **https://l1nq.com/dashboard-locacao-veiculos-brunoanalytics**
+👉 **** <a href="https://l1nq.com/dashboard-locacao-veiculos-brunoanalytics" target="_blank">Acessar Painel</a>
 
