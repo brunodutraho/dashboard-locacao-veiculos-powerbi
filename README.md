@@ -10,16 +10,16 @@ O objetivo é apresentar um painel completo para análise de uma empresa de **lo
 ## 🖼️ Visualizações do Dashboard
 
 ### 📌 1. Capa do Projeto
-![Capa do Dashboard](/imagens/capa.png)
+![Capa do Dashboard](https://i.postimg.cc/htZGgpDc/capa-locacao-veiulos.png)
 
 ### 🚗 2. Dashboard – Locação de Veículos
-![Dashboard Locação de Veículos](https://github.com/brunodutraho/dashboard-locacao-veiculos-powerbi/blob/main/imagens/locacao-veiculos.png?raw=true)
+![Dashboard Locação de Veículos](https://i.postimg.cc/3NZKqZSV/locacao-veiulos.png)
 
 ### 👥 3. Dashboard – Clientes
-![Dashboard Clientes](https://github.com/brunodutraho/dashboard-locacao-veiculos-powerbi/blob/main/imagens/clientes.png?raw=true)
+![Dashboard Clientes](https://i.postimg.cc/8CrTGGX6/clientes-locacao-veiulos.png)
 
 ### 📊 4. Dashboard – Visão Geral
-![Dashboard Geral](https://github.com/brunodutraho/dashboard-locacao-veiculos-powerbi/blob/main/imagens/geral.png?raw=true)
+![Dashboard Geral](https://i.postimg.cc/2yTDGS3z/geral-locacao-veiulos.png)
 
 ---
 
@@ -111,32 +111,3 @@ Acesse o dashboard diretamente pela web:
 
 👉 **https://l1nq.com/dashboard-locacao-veiculos-brunoanalytics**
 
----
-
-## 🚀 Como Abrir o Projeto
-
-1. Baixe o arquivo `.pbix`  
-2. Abra no **Power BI Desktop**  
-3. Ajuste os caminhos das fontes de dados, se necessário  
-4. Atualize o modelo  
-
----
-
-## 💡 Por que este projeto é relevante para recrutadores?
-
-- Demonstra **domínio técnico** em Power BI, DAX e modelagem  
-- Mostra **capacidade analítica** e entendimento de métricas de negócio  
-- Apresenta **organização, clareza e comunicação visual**  
-- É um exemplo real de como posso **agregar valor a empresas** através de dados  
-- Evidencia **boas práticas de documentação e versionamento**  
-
-Este projeto foi construído com foco em **entregar valor**, **clareza** e **profissionalismo**, exatamente como faço em ambientes corporativos.
-
----
-
-## 👨‍💻 Autor
-
-**Bruno Dutra**  
-Analista de Dados | Power BI, SQL, Excel e Python  
-Portfólio: *adicione seu link aqui*  
-LinkedIn: *adicione seu link aqui*
