@@ -107,6 +107,7 @@ Segmentações utilizadas:
 
 ## 🔗 Visualização Online
 
-Acesse o dashboard diretamente pela web:
-👉 **** <a href="https://app.powerbi.com/view?r=eyJrIjoiNWY1NzBkN2QtOTJjZC00MDEwLWE2ZjUtNTQwYmY3ZDkxM2FiIiwidCI6ImJkYjUwNDk5LWIyNmMtNDNjNS1iM2E1LTFiYTMxZDA4NmQzYiJ9" target="_blank">Acessar Painel</a>
-
+🔗 Visualização Online:  
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNWY1NzBkN2QtOTJjZC00MDEwLWE2ZjUtNTQwYmY3ZDkxM2FiIiwidCI6ImJkYjUwNDk5LWIyNmMtNDNjNS1iM2E1LTFiYTMxZDA4NmQzYiJ9" target="_blank">
+👉 Clique aqui para abrir o dashboard em outra aba
+</a>
