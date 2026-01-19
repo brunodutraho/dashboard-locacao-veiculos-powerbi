@@ -1,96 +1,95 @@
-# 🚗 Dashboard de Locação de Veículos – Power BI  
-### Projeto de Análise de Dados com foco em indicadores de negócio
+# 🚗 Dashboard de Locação de Veículos — Power BI  
+### Análise de Dados com foco em indicadores de negócio
 
-Este projeto foi desenvolvido para demonstrar minha capacidade como **Analista de Dados**, aplicando técnicas de modelagem, tratamento de dados, criação de indicadores e construção de dashboards profissionais em **Power BI**.
+Este projeto foi desenvolvido para demonstrar, de forma prática, minha atuação como **Analista de Dados**, aplicando **tratamento de dados, modelagem, criação de métricas e construção de dashboards em Power BI**.
 
-O objetivo é apresentar um painel completo para análise de uma empresa de **locação de veículos**, permitindo decisões rápidas e baseadas em dados.
+A proposta é simples: transformar dados operacionais de uma empresa de **locação de veículos** em informações claras, úteis e acionáveis para apoiar decisões do dia a dia e análises estratégicas.
 
 ---
 
 ## 🖼️ Visualizações do Dashboard
 
-### 📌 1. Capa do Projeto
+### 📌 Capa do Projeto
 ![Capa do Dashboard](https://i.postimg.cc/htZGgpDc/capa-locacao-veiulos.png)
 
-### 🚗 2. Dashboard – Locação de Veículos
+### 🚗 Locação de Veículos
 ![Dashboard Locação de Veículos](https://i.postimg.cc/3NZKqZSV/locacao-veiulos.png)
 
-### 👥 3. Dashboard – Clientes
+### 👥 Clientes
 ![Dashboard Clientes](https://i.postimg.cc/8CrTGGX6/clientes-locacao-veiulos.png)
 
-### 📊 4. Dashboard – Visão Geral
+### 📊 Visão Geral
 ![Dashboard Geral](https://i.postimg.cc/2yTDGS3z/geral-locacao-veiulos.png)
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Este dashboard foi criado para demonstrar:
+Este dashboard foi criado para evidenciar:
 
-✅ Minha capacidade de transformar dados brutos em **insights acionáveis**  
-✅ Domínio de **Power BI, Power Query, DAX e modelagem de dados**  
-✅ Entendimento de **indicadores de negócio** e métricas relevantes  
-✅ Habilidade em construir **dashboards claros, intuitivos e profissionais**  
+- Capacidade de **transformar dados brutos em insights acionáveis**
+- Domínio prático de **Power BI, Power Query, DAX e modelagem de dados**
+- Entendimento de **indicadores de negócio** relevantes para a gestão
+- Construção de **dashboards claros, intuitivos e profissionais**
+
+O foco não está apenas no visual, mas na **leitura correta dos dados e no suporte à tomada de decisão**.
 
 ---
 
-## 📊 Principais Indicadores Apresentados
+## 📊 Principais Indicadores
 
 - **Faturamento Total:** R$ 81.434,00  
 - **Total de Clientes:** 30  
 - **Ticket Médio:** R$ 5.189,27  
 - **Média de KM Percorrido:** 1.357,23  
-- **Top 3 Placas com Maior Consumo**  
-- **Faturamento por Ano**  
-- **% de Participação por Ano**  
-- **Faturamento por Dia da Semana**  
-- **Clientes Cadastrados x Não Cadastrados**  
-- **Resumo de Consumo por Cliente, Placa, Marca e Situação Cadastral**
+- **Top 3 veículos com maior consumo**  
+- **Faturamento por ano**  
+- **Participação percentual por período**  
+- **Faturamento por dia da semana**  
+- **Clientes cadastrados x não cadastrados**  
+- **Resumo de consumo por cliente, veículo, marca e situação cadastral**
 
-Esses indicadores foram escolhidos por serem **relevantes para a gestão**, permitindo análises operacionais e estratégicas.
+Esses indicadores foram definidos com foco em **análises operacionais e estratégicas**.
 
 ---
 
 ## 🧱 Estrutura dos Dados
 
-### **CLIENTES.xlsx**
-Contém informações de identificação, cargo, salário e cidade.
+### CLIENTES.xlsx
+Base com informações de identificação, cargo, salário e cidade.
 
-### **LOCAÇÃO DE VEÍCULOS.xlsx**
-Contém dados de consumo, quilometragem, marca, modelo, placa, ano e situação cadastral.
+### LOCACAO_DE_VEICULOS.xlsx
+Base com dados de consumo, quilometragem, marca, modelo, placa, ano e situação cadastral.
 
-Foram aplicados:
-
-- Tratamento de erros  
-- Padronização de tipos  
-- Criação de colunas derivadas  
-- Limpeza de registros inválidos  
+Durante o processo foram aplicados:
+- Limpeza de inconsistências  
+- Padronização de tipos de dados  
+- Criação de colunas calculadas  
+- Remoção de registros inválidos  
 
 ---
 
-## 🧮 Modelagem e Lógica de Negócio
+## 🧮 Modelagem e Regras de Negócio
 
-A modelagem foi construída conectando:
-
+A modelagem conecta:
 - **Tabela de Clientes**
-- **Tabela de Rastreamento de Locação**
+- **Tabela de Locação de Veículos**
 
-Principais cálculos:
+Principais métricas criadas:
 
-- **Faturamento:**  
-  `Faturamento = KM Percorrido * Valor por KM`
+- **Faturamento**  
+  `KM Percorrido × Valor por KM`
 
-- **Ticket Médio:**  
-  `Ticket Médio = Faturamento Total / Total de Clientes`
+- **Ticket Médio**  
+  `Faturamento Total ÷ Total de Clientes`
 
-- **Média de KM:**  
-  Média geral por veículo/cliente
+- **Média de KM Percorrido**  
+  Cálculo médio por veículo e cliente
 
-Segmentações utilizadas:
-
+Segmentações disponíveis:
 - Ano  
-- Modelo  
 - Marca  
+- Modelo  
 - Situação cadastral  
 - Dia da semana  
 
@@ -98,16 +97,24 @@ Segmentações utilizadas:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Power BI Desktop**  
-- **Power Query**  
-- **DAX**  
-- **Excel**  
+- Power BI Desktop  
+- Power Query (M)  
+- DAX  
+- Microsoft Excel  
 
 ---
 
 ## 🔗 Visualização Online
 
-🔗 Visualização Online: (Pressione ctrl e click no link para abrir em uma nova aba)  
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWY1NzBkN2QtOTJjZC00MDEwLWE2ZjUtNTQwYmY3ZDkxM2FiIiwidCI6ImJkYjUwNDk5LWIyNmMtNDNjNS1iM2E1LTFiYTMxZDA4NmQzYiJ9" target="_blank">
-👉 Clique aqui para abrir o dashboard em outra aba
-</a>
+👉 https://app.powerbi.com/view?r=eyJrIjoiNWY1NzBkN2QtOTJjZC00MDEwLWE2ZjUtNTQwYmY3ZDkxM2FiIiwidCI6ImJkYjUwNDk5LWIyNmMtNDNjNS1iM2E1LTFiYTMxZDA4NmQzYiJ9
+
+---
+
+## 👤 Autor
+
+**Bruno Dutra**  
+Analista de Dados | Business Intelligence | Power BI | SQL  
+
+- GitHub: https://github.com/brunodutraho  
+- LinkedIn: https://www.linkedin.com/in/brunodutraho  
+- Portfólio: https://bruno-dutra-portfolio.vercel.app  
